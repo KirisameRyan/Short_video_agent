@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+douyin-downloader/venv/
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 下载的视频和临时文件
+douyin-downloader/Downloaded/
+downloads/
+output/
+temp/
+transcripts/
+enhanced_dialogues/
+dify_knowledge/
+
+# 配置和敏感信息
+.env
+.cookies.json
+config.yml
+urls.txt
+new.txt
+
+# 日志文件
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 备份文件
+*.bak
+*.backup
+*_backup.*

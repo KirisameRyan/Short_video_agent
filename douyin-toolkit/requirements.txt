@@ -1,0 +1,24 @@
+# 核心依赖
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# 音视频处理
+openai-whisper>=20231117
+ffmpeg-python>=0.2.0
+
+# 语音识别（可选）
+# funasr>=1.0.0  # 如果使用阿里 FunASR
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# JSON 处理
+json5>=0.9.14
+
+# 进度条（可选）
+tqdm>=4.65.0
+
+# 备注：
+# - douyin-downloader 有自己的 requirements.txt
+# - 运行前请先安装 FFmpeg：https://ffmpeg.org/download.html
