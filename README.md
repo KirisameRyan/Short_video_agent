@@ -3,6 +3,7 @@
 > 华中科技大学首届 AI 智能体开发大赛 · 短剧智能体赛道参赛作品
 
 **在线体验：** [点击体验短剧智能体](http://www.azureflame.cloud/chat/3x4mmLXbxsAQjDuc)
+**介绍视频：** [点击观看介绍视频](https://www.bilibili.com/video/BV12WAAz5E4S?vd_source=49a793f1cdb6351f7c6c3c06f3b81b11)
 
 ---
 
